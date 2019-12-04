@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>444.42</string>
+	<string>490</string>
 	<key>AMApplicationVersion</key>
-	<string>2.9</string>
+	<string>2.10</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -62,48 +62,54 @@
 					<string>com.apple.cocoa.path</string>
 					<key>predicate</key>
 					<data>
-					YnBsaXN0MDDUAQIDBAUGYWJYJHZlcnNpb25Y
-					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
-					oK8QFgcIDxQcJicpMDQ5Oj1BRUpLTlRYXF5V
-					JG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFBy
-					ZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0
-					ZXNWJGNsYXNzEAGAAoAV0hALERNaTlMub2Jq
-					ZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmln
-					aHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVz
-					c2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KA
-					E4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFu
-					ZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVz
-					c2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOA
-					CIANXHZhbHVlRm9yS2V5OtIfCwwogAfSKiss
-					LVokY2xhc3NuYW1lWCRjbGFzc2VzXxAQTlNT
-					ZWxmRXhwcmVzc2lvbqMsLi9cTlNFeHByZXNz
-					aW9uWE5TT2JqZWN00hALMTOhMoAJgAzTCx81
-					Njc4WU5TS2V5UGF0aIALEAqACl1maWxlRXh0
-					ZW5zaW9u0iorOzxfEBxOU0tleVBhdGhTcGVj
-					aWZpZXJFeHByZXNzaW9uozsuL9IqKz4/Xk5T
-					TXV0YWJsZUFycmF5oz5AL1dOU0FycmF50ior
-					QkNfEBNOU0tleVBhdGhFeHByZXNzaW9upEJE
-					Li9fEBROU0Z1bmN0aW9uRXhwcmVzc2lvbtNG
-					HwtHSElfEA9OU0NvbnN0YW50VmFsdWWADxAA
-					gBBTYXBr0iorTE1fEBlOU0NvbnN0YW50VmFs
-					dWVFeHByZXNzaW9uo0wuL9QLT1BRUkgjU1pO
-					U01vZGlmaWVyV05TRmxhZ3NeTlNPcGVyYXRv
-					clR5cGWAEhBj0iorVVZfEBVOU0luUHJlZGlj
-					YXRlT3BlcmF0b3KjVVcvXxATTlNQcmVkaWNh
-					dGVPcGVyYXRvctIqK1laXxAVTlNDb21wYXJp
-					c29uUHJlZGljYXRlo1lbL1tOU1ByZWRpY2F0
-					ZdIqK0BdokAv0iorX2BfEBNOU0NvbXBvdW5k
-					UHJlZGljYXRlo19bL18QD05TS2V5ZWRBcmNo
-					aXZlctFjZFRyb290gAEACAARABoAIwAtADIA
-					NwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACq
-					AKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEB
-					PQE/AUEBQwFFAUcBVAFZAVsBYAFrAXQBhwGL
-					AZgBoQGmAagBqgGsAbMBvQG/AcEBwwHRAdYB
-					9QH5Af4CDQIRAhkCHgI0AjkCUAJXAmkCawJt
-					Am8CcwJ4ApQCmAKhAqwCtALDAsUCxwLMAuQC
-					6AL+AwMDGwMfAysDMAMzAzgDTgNSA2QDZwNs
-					AAAAAAAAAgEAAAAAAAAAZQAAAAAAAAAAAAAA
-					AAAAA24=
+					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
+					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
+					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
+					gAGvEB4LDBMZISssLjU5Pj9CRkpPUFNbX2No
+					bXF0dSh4fH5VJG51bGzTDQ4PEBESXxAXTlND
+					b21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1
+					YnByZWRpY2F0ZXNWJGNsYXNzEAGAAoAd0hQP
+					FRhaTlMub2JqZWN0c6IWF4ADgBSAHNQPGhsc
+					HR4fIF8QEU5TUmlnaHRFeHByZXNzaW9uXxAQ
+					TlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGlj
+					YXRlT3BlcmF0b3KAE4AOgASAEdUiIyQlDyYn
+					KCkqWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFt
+					ZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1
+					bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5
+					OtIkDxAtgAfSLzAxMlokY2xhc3NuYW1lWCRj
+					bGFzc2VzXxAQTlNTZWxmRXhwcmVzc2lvbqMx
+					MzRcTlNFeHByZXNzaW9uWE5TT2JqZWN00hQP
+					NjihN4AJgAzTDyQ6Ozw9WU5TS2V5UGF0aIAL
+					EAqACl1maWxlRXh0ZW5zaW9u0i8wQEFfEBxO
+					U0tleVBhdGhTcGVjaWZpZXJFeHByZXNzaW9u
+					o0AzNNIvMENEXk5TTXV0YWJsZUFycmF5o0NF
+					NFdOU0FycmF50i8wR0hfEBNOU0tleVBhdGhF
+					eHByZXNzaW9upEdJMzRfEBROU0Z1bmN0aW9u
+					RXhwcmVzc2lvbtNLJA9MTU5fEA9OU0NvbnN0
+					YW50VmFsdWWADxAAgBBTYXBr0i8wUVJfEBlO
+					U0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo1Ez
+					NNUPVFVWV1hNWShaWk5TTW9kaWZpZXJYTlNO
+					ZWdhdGVZTlNPcHRpb25zXk5TT3BlcmF0b3JU
+					eXBlgBIIEATSLzBcXV8QG05TRXF1YWxpdHlQ
+					cmVkaWNhdGVPcGVyYXRvcqNcXjRfEBNOU1By
+					ZWRpY2F0ZU9wZXJhdG9y0i8wYGFfEBVOU0Nv
+					bXBhcmlzb25QcmVkaWNhdGWjYGI0W05TUHJl
+					ZGljYXRl1A8aGxwdZWZngBOAGYAVgBvVIiMk
+					JQ8mJyhrKoAGgAWAFoAN0hQPbjihb4AXgAzT
+					DyQ6OzxzgAuAGFRraW5k00skD3ZNToAagBDV
+					D1RVVldYTXpNe4ASCRAF0i8wRX2iRTTSLzB/
+					gF8QE05TQ29tcG91bmRQcmVkaWNhdGWjf2I0
+					AAgAEQAaACQAKQAyADcASQBMAFEAUwB0AHoA
+					gQCbAK0AtAC2ALgAugC/AMoAzQDPANEA0wDc
+					APABAwEZARsBHQEfASEBLAE2AUUBWAFkAWYB
+					aAFqAWwBbgF7AYABggGHAZIBmwGuAbIBvwHI
+					Ac0BzwHRAdMB2gHkAeYB6AHqAfgB/QIcAiAC
+					JQI0AjgCQAJFAlsCYAJ3An4CkAKSApQClgKa
+					Ap8CuwK/AsoC1QLeAugC9wL5AvoC/AMBAx8D
+					IwM5Az4DVgNaA2YDbwNxA3MDdQN3A4IDhAOG
+					A4gDigOPA5EDkwOVA5wDngOgA6UDrAOuA7AD
+					uwO9A74DwAPFA8gDzQPjAAAAAAAAAgEAAAAA
+					AAAAgQAAAAAAAAAAAAAAAAAAA+c=
 					</data>
 				</dict>
 				<key>BundleIdentifier</key>
@@ -165,395 +171,9 @@
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>574.000000:243.000000</string>
+				<string>571.000000:275.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Filter Finder Items 2.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<false/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>2.1.1</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>itemType</key>
-					<dict/>
-					<key>predicate</key>
-					<dict/>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMRequiredResources</key>
-				<array/>
-				<key>AMSelectedInputType</key>
-				<string>com.apple.cocoa.path</string>
-				<key>AMSelectedOutputType</key>
-				<string>com.apple.cocoa.path</string>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Filter Finder Items 2.action</string>
-				<key>ActionName</key>
-				<string>Фильтровать объекты Finder</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>itemType</key>
-					<string>com.apple.cocoa.path</string>
-					<key>predicate</key>
-					<data>
-					YnBsaXN0MDDUAQIDBAUGamtYJHZlcnNpb25Y
-					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
-					oK8QGAcIDxQYHCQuLzI5PUJDRkpOK1JVXWFl
-					Z1UkbnVsbNMJCgsMDQ5fEBdOU0NvbXBvdW5k
-					UHJlZGljYXRlVHlwZV8QD05TU3VicHJlZGlj
-					YXRlc1YkY2xhc3MQAIACgBfSEAsRE1pOUy5v
-					YmplY3RzoRKAA4AW0wkKCxUWDhACgASAF9IQ
-					CxkToRqABYAW1AsdHh8gISIjXxARTlNSaWdo
-					dEV4cHJlc3Npb25fEBBOU0xlZnRFeHByZXNz
-					aW9uXxATTlNQcmVkaWNhdGVPcGVyYXRvcoAV
-					gBCABoAT1SUmJygLKSorLC1ZTlNPcGVyYW5k
-					Xk5TU2VsZWN0b3JOYW1lXxAQTlNFeHByZXNz
-					aW9uVHlwZVtOU0FyZ3VtZW50c4AIgAcQA4AK
-					gA9cdmFsdWVGb3JLZXk60icLMDEQAYAJ0jM0
-					NTZaJGNsYXNzbmFtZVgkY2xhc3Nlc18QEE5T
-					U2VsZkV4cHJlc3Npb26jNTc4XE5TRXhwcmVz
-					c2lvblhOU09iamVjdNIQCzo8oTuAC4AO0wsn
-					Pj9AQVlOU0tleVBhdGiADRAKgAxUa2luZNIz
-					NERFXxAcTlNLZXlQYXRoU3BlY2lmaWVyRXhw
-					cmVzc2lvbqNENzjSMzRHSF5OU011dGFibGVB
-					cnJheaNHSThXTlNBcnJhedIzNEtMXxATTlNL
-					ZXlQYXRoRXhwcmVzc2lvbqRLTTc4XxAUTlNG
-					dW5jdGlvbkV4cHJlc3Npb27TTycLUAxRXxAP
-					TlNDb25zdGFudFZhbHVlgBGAEtIzNFNUXxAZ
-					TlNDb25zdGFudFZhbHVlRXhwcmVzc2lvbqNT
-					NzjVC1ZXWFlaDFsMXFpOU01vZGlmaWVyWE5T
-					TmVnYXRlWU5TT3B0aW9uc15OU09wZXJhdG9y
-					VHlwZYAUCBAE0jM0Xl9fEBtOU0VxdWFsaXR5
-					UHJlZGljYXRlT3BlcmF0b3KjXmA4XxATTlNQ
-					cmVkaWNhdGVPcGVyYXRvctIzNGJjXxAVTlND
-					b21wYXJpc29uUHJlZGljYXRlo2JkOFtOU1By
-					ZWRpY2F0ZdIzNElmokk40jM0aGlfEBNOU0Nv
-					bXBvdW5kUHJlZGljYXRlo2hkOF8QD05TS2V5
-					ZWRBcmNoaXZlctFsbVRyb290gAEACAARABoA
-					IwAtADIANwBSAFgAXwB5AIsAkgCUAJYAmACd
-					AKgAqgCsAK4AtQC3ALkAuwDAAMIAxADGAM8A
-					4wD2AQwBDgEQARIBFAEfASkBOAFLAVcBWQFb
-					AV0BXwFhAW4BcwF1AXcBfAGHAZABowGnAbQB
-					vQHCAcQBxgHIAc8B2QHbAd0B3wHkAekCCAIM
-					AhECIAIkAiwCMQJHAkwCYwJqAnwCfgKAAoUC
-					oQKlArACuwLEAs4C3QLfAuAC4gLnAwUDCQMf
-					AyQDPANAA0wDUQNUA1kDbwNzA4UDiAONAAAA
-					AAAAAgEAAAAAAAAAbgAAAAAAAAAAAAAAAAAA
-					A48=
-					</data>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.FilterFinderItems2</string>
-				<key>CFBundleVersion</key>
-				<string>2.1.1</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryFilesAndFolders</string>
-				</array>
-				<key>Class Name</key>
-				<string>Filter_Finder_Items_2</string>
-				<key>InputUUID</key>
-				<string>D83E1269-B664-4CDE-842C-A6DD0D936673</string>
-				<key>Keywords</key>
-				<array/>
-				<key>OutputUUID</key>
-				<string>FB9E6A8C-19EC-4FCC-A9CA-2A8D1A9B5B98</string>
-				<key>UUID</key>
-				<string>00B0D269-0100-4977-994B-BBC18388C5CA</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string>com.apple.cocoa.path</string>
-						<key>name</key>
-						<string>itemType</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<data>
-						</data>
-						<key>name</key>
-						<string>predicate</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>574.000000:416.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Filter Finder Items 2.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<false/>
-					<key>Types</key>
-					<array>
-						<string>*</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>v.1.0.2</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>variableUUID</key>
-					<dict>
-						<key>isPathPopUp</key>
-						<false/>
-						<key>selectedVariableUUID</key>
-						<string>FB0A3699-A787-4129-906D-C5A17AE10D06</string>
-						<key>variableUUIDsInMenu</key>
-						<array/>
-					</dict>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>*</string>
-					</array>
-				</dict>
-				<key>AMRequiredResources</key>
-				<array/>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Set Value of Variable.action</string>
-				<key>ActionName</key>
-				<string>Установить значение переменной</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>variableUUID</key>
-					<string>FB0A3699-A787-4129-906D-C5A17AE10D06</string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.SetValueofVariable</string>
-				<key>CFBundleVersion</key>
-				<string>1.0.2</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<true/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryUtilities</string>
-				</array>
-				<key>Class Name</key>
-				<string>Set_Value_of_Variable</string>
-				<key>InputUUID</key>
-				<string>195A0FBF-E057-4ECC-A86F-9AB20CAA7532</string>
-				<key>Keywords</key>
-				<array>
-					<string>Переменная</string>
-					<string>связывание</string>
-					<string>Вход</string>
-					<string>Выход</string>
-					<string>Память</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>060AEEEE-E677-4975-8606-256910F0BF0B</string>
-				<key>ShowWhenRun</key>
-				<false/>
-				<key>UUID</key>
-				<string>650C3415-B813-42AA-82DE-09214F425241</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>variableUUID</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>574.000000:521.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Set Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>*</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>v.1.0.2</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>variableUUID</key>
-					<dict>
-						<key>isPathPopUp</key>
-						<false/>
-						<key>selectedVariableUUID</key>
-						<string>FB0A3699-A787-4129-906D-C5A17AE10D06</string>
-					</dict>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>*</string>
-					</array>
-				</dict>
-				<key>AMRequiredResources</key>
-				<array/>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Get Value of Variable.action</string>
-				<key>ActionName</key>
-				<string>Получить значение переменной</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>variableUUID</key>
-					<string>FB0A3699-A787-4129-906D-C5A17AE10D06</string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.GetValueofVariable</string>
-				<key>CFBundleVersion</key>
-				<string>1.0.2</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryUtilities</string>
-				</array>
-				<key>Class Name</key>
-				<string>Get_Value_of_Variable</string>
-				<key>IgnoresInput</key>
-				<true/>
-				<key>InputUUID</key>
-				<string>3B2C1680-1ADA-4EFD-A419-D1F13FA52727</string>
-				<key>Keywords</key>
-				<array>
-					<string>Переменная</string>
-					<string>связывание</string>
-					<string>Вход</string>
-					<string>Выход</string>
-					<string>Память</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>FD8EDF00-E158-4D1B-85F2-8BA5C19CA0EA</string>
-				<key>UUID</key>
-				<string>B4E75A9D-77F1-4FB4-8EAC-FFEC1CCB9324</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>variableUUID</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>574.000000:623.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
@@ -607,412 +227,50 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>if $1
+					<string>cd "$(dirname "$1")"
+
+if ! [ -d ./installed ]; then
+mkdir installed
+fi
+
+if [ $# -eq 0 ]
 then
   osascript -e 'display notification "There are no apk files in a folder." with title "Error!"'
   exit 1
 fi
-(/usr/local/bin/adb devices|sed '1d;$ d'|cut -f1 &gt; /tmp/adbdevices) &amp;</string>
-					<key>CheckedForUserDefaultShell</key>
-					<true/>
-					<key>inputMethod</key>
-					<integer>1</integer>
-					<key>shell</key>
-					<string>/bin/bash</string>
-					<key>source</key>
-					<string></string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.RunShellScript</string>
-				<key>CFBundleVersion</key>
-				<string>2.0.3</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryUtilities</string>
-				</array>
-				<key>Class Name</key>
-				<string>RunShellScriptAction</string>
-				<key>IgnoresInput</key>
-				<false/>
-				<key>InputUUID</key>
-				<string>C5654E41-33E3-4045-8AFA-6D9FA7E06A44</string>
-				<key>Keywords</key>
-				<array>
-					<string>Shell</string>
-					<string>Скрипт</string>
-					<string>Команда</string>
-					<string>Запустить</string>
-					<string>Unix</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>92BBF85A-CE13-4125-82B7-495C3D37B02B</string>
-				<key>UUID</key>
-				<string>FE7CB5AB-B806-4701-B837-563B6AD62F00</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<integer>0</integer>
-						<key>name</key>
-						<string>inputMethod</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>source</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-					<key>2</key>
-					<dict>
-						<key>default value</key>
-						<false/>
-						<key>name</key>
-						<string>CheckedForUserDefaultShell</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>2</string>
-					</dict>
-					<key>3</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>COMMAND_STRING</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>3</string>
-					</dict>
-					<key>4</key>
-					<dict>
-						<key>default value</key>
-						<string>/bin/sh</string>
-						<key>name</key>
-						<string>shell</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>4</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>574.000000:805.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.string</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>1.1.1</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Automator</string>
-					<string>TextEdit</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>buttonAffirmative</key>
-					<dict/>
-					<key>buttonNegative</key>
-					<dict/>
-					<key>defaultAnswer</key>
-					<dict>
-						<key>tokenizedValue</key>
-						<array>
-							<string>usb</string>
-						</array>
-					</dict>
-					<key>defaultMessage</key>
-					<dict>
-						<key>tokenizedValue</key>
-						<array>
-							<string>адрес (usb/emu/192.168.1.X:5555)</string>
-						</array>
-					</dict>
-					<key>requireInput</key>
-					<dict/>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.string</string>
-					</array>
-				</dict>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Ask for Text.action</string>
-				<key>ActionName</key>
-				<string>Запросить текст</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>buttonAffirmative</key>
-					<string>ОК</string>
-					<key>buttonNegative</key>
-					<string>Отменить</string>
-					<key>defaultAnswer</key>
-					<string>usb</string>
-					<key>defaultMessage</key>
-					<string>адрес (usb/emu/192.168.1.X:5555)</string>
-					<key>requireInput</key>
-					<true/>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.TextInputDialog</string>
-				<key>CFBundleVersion</key>
-				<string>1.1.1</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<true/>
-				<key>CanShowWhenRun</key>
-				<false/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryText</string>
-				</array>
-				<key>Class Name</key>
-				<string>AMAskForTextAction</string>
-				<key>Disabled</key>
-				<false/>
-				<key>IgnoresInput</key>
-				<true/>
-				<key>InputUUID</key>
-				<string>76551868-67E9-4061-9302-F5756994862F</string>
-				<key>Keywords</key>
-				<array>
-					<string>Текст</string>
-					<string>Запрашивать</string>
-					<string>Запрашивать</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>AB623390-02D3-42EF-A362-80F38BFBB5D1</string>
-				<key>UUID</key>
-				<string>3268D2F1-0082-4518-ACB4-B204FAB92C10</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Automator</string>
-					<string>TextEdit</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>defaultAnswer</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<string>ОК</string>
-						<key>name</key>
-						<string>buttonAffirmative</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-					<key>2</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>defaultMessage</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>2</string>
-					</dict>
-					<key>3</key>
-					<dict>
-						<key>default value</key>
-						<string>Отменить</string>
-						<key>name</key>
-						<string>buttonNegative</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>3</string>
-					</dict>
-					<key>4</key>
-					<dict>
-						<key>default value</key>
-						<false/>
-						<key>name</key>
-						<string>requireInput</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>4</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>574.000000:986.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Ask for Text.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.string</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>2.0.3</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>COMMAND_STRING</key>
-					<dict/>
-					<key>CheckedForUserDefaultShell</key>
-					<dict/>
-					<key>inputMethod</key>
-					<dict/>
-					<key>shell</key>
-					<dict/>
-					<key>source</key>
-					<dict/>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.string</string>
-					</array>
-				</dict>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Run Shell Script.action</string>
-				<key>ActionName</key>
-				<string>Запустить shell-скрипт</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>COMMAND_STRING</key>
-					<string>while [ ! -f /tmp/adbdevices ]
-do
-	sleep 2
-done
-if [ "$(cat /tmp/adbdevices | wc -l)" -gt "1" ]
+
+killall "System Events";osascript -e 'launch application "System Events"';sleep 0.2
+
+adbdevices=$(/usr/local/bin/adb devices|sed '1d;$ d'|cut -f1)
+
+devices=$(echo $adbdevices|awk -v RS='' -v OFS='","' 'NF { $1 = $1; print "\"" $0 "\"" }')
+devices="$devices,\"Connect a new device...\""  
+answer=$(osascript -e 'tell application "System Events" to return choose from list {'$devices'} with prompt "Select install target:" default items "'$(echo $adbdevices|head -1)'"')
+
+if [ $answer = "Connect a new device..." ]
 then
-    if echo "$1" | grep "usb"
-    then
-        if [ "$(cat /tmp/adbdevices | sed '/\./d;/-/d' | wc -l)" -gt "1" ]
-        then
-            osascript -e 'display notification "Two or more usb devices are connected, device choosing is currently unsupported." with title "Error!"'
-            rm /tmp/adbdevices
-            exit 1
-        fi
-    elif echo "$1" | grep "emu"
-    then 
-        if [ "$(cat /tmp/adbdevices | grep - | wc -l)" -gt "1" ]
-        then
-            osascript -e 'display notification "Two or more emulators are connected, device choosing is currently unsupported.." with title "Error!"'
-            rm /tmp/adbdevices
-            exit 1
-        fi
-    else
-        if [ "$(cat /tmp/adbdevices | grep \. | wc -l)" -gt "1" ]
-        then
-            osascript -e 'display notification "Two or more devices are connected, device choosing is currently unsupported.." with title "Error!"'
-            rm /tmp/adbdevices
-            exit 1
-        fi
-    fi
+ip=$(osascript -e 'set T to text returned of (display dialog "Enter a device IP" default answer "192.168.1.100:5555")')
+/usr/local/bin/adb connect $ip &gt; /dev/null 2&gt;&amp;1
+answer=$ip
 fi
-if echo "$1" | grep "usb"
-then
-    echo "-d" &gt; /tmp/adbdevices
-elif echo "$1" | grep "emu"
-then
-    echo -s $(cat /tmp/adbdevices | grep - )&gt; /tmp/adbdevices
-else
-    /usr/local/bin/adb connect 192.168.1.$1:5555 &gt; /dev/null 2&gt;&amp;1
-    echo "-s 192.168.1.$1:5555" &gt; /tmp/adbdevices
-fi</string>
+
+for f in "$@"
+do
+	adbresult=$(/usr/local/bin/adb -s $answer install -r -g "$f" 2&gt;&amp;1)
+    if [ $(echo $adbresult|grep Success) ]
+    then
+        (osascript -e "on run(argv)" -e "display notification (item 1 of argv) with title (item 2 of argv)" -e "end run" -- "$f" "Done!") &amp;
+        (mv "$(echo $f | sed "s/.*\///; s/\\\//g")" ./installed/) &amp;
+    else
+        (osascript -e "on run(argv)" -e "display notification (item 1 of argv) with title (item 2 of argv)" -e "end run" -- "$(echo $adbresult)" "Error!") &amp;
+    fi
+done</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
 					<integer>1</integer>
 					<key>shell</key>
-					<string>/bin/bash</string>
+					<string>/bin/zsh</string>
 					<key>source</key>
 					<string></string>
 				</dict>
@@ -1068,9 +326,9 @@ fi</string>
 					<key>1</key>
 					<dict>
 						<key>default value</key>
-						<string></string>
+						<false/>
 						<key>name</key>
-						<string>source</string>
+						<string>CheckedForUserDefaultShell</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
@@ -1081,9 +339,9 @@ fi</string>
 					<key>2</key>
 					<dict>
 						<key>default value</key>
-						<false/>
+						<string></string>
 						<key>name</key>
-						<string>CheckedForUserDefaultShell</string>
+						<string>source</string>
 						<key>required</key>
 						<string>0</string>
 						<key>type</key>
@@ -1121,299 +379,7 @@ fi</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>574.000000:1168.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>*</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>v.1.0.2</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>variableUUID</key>
-					<dict>
-						<key>isPathPopUp</key>
-						<false/>
-						<key>selectedVariableUUID</key>
-						<string>FB0A3699-A787-4129-906D-C5A17AE10D06</string>
-					</dict>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>*</string>
-					</array>
-				</dict>
-				<key>AMRequiredResources</key>
-				<array/>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Get Value of Variable.action</string>
-				<key>ActionName</key>
-				<string>Получить значение переменной</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>variableUUID</key>
-					<string>FB0A3699-A787-4129-906D-C5A17AE10D06</string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.GetValueofVariable</string>
-				<key>CFBundleVersion</key>
-				<string>1.0.2</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryUtilities</string>
-				</array>
-				<key>Class Name</key>
-				<string>Get_Value_of_Variable</string>
-				<key>IgnoresInput</key>
-				<true/>
-				<key>InputUUID</key>
-				<string>9014C67D-3C4D-4312-A871-7AC0F1BE6115</string>
-				<key>Keywords</key>
-				<array>
-					<string>Переменная</string>
-					<string>связывание</string>
-					<string>Вход</string>
-					<string>Выход</string>
-					<string>Память</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>157C03E9-C4C4-4EBB-B351-861F91FCD70E</string>
-				<key>UUID</key>
-				<string>0DEBF3F4-F952-4CC0-96D0-DA58F7210B1D</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>variableUUID</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>574.000000:1270.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Get Value of Variable.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<true/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.string</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>2.0.3</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>COMMAND_STRING</key>
-					<dict/>
-					<key>CheckedForUserDefaultShell</key>
-					<dict/>
-					<key>inputMethod</key>
-					<dict/>
-					<key>shell</key>
-					<dict/>
-					<key>source</key>
-					<dict/>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.string</string>
-					</array>
-				</dict>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Run Shell Script.action</string>
-				<key>ActionName</key>
-				<string>Запустить shell-скрипт</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>COMMAND_STRING</key>
-					<string>cd "$(dirname "$1")"
-for f in "$@"
-do
-	/usr/local/bin/adb $(cat /tmp/adbdevices) install -r "$f" &gt; /tmp/adbresult 2&gt;&amp;1
-    if [ $(cat /tmp/adbresult | grep Success) ]
-    then
-        (osascript -e "on run(argv)" -e "display notification (item 1 of argv) with title (item 2 of argv)" -e "end run" -- "$f" "Done!") &amp;
-        (mv "$(echo $f | sed "s/.*\///; s/\\\//g")" ./installed) &amp;
-    else
-        (osascript -e "on run(argv)" -e "display notification (item 1 of argv) with title (item 2 of argv)" -e "end run" -- "$(echo $f|sed 's/.*\///') $(echo -e '\n';cat /tmp/adbresult | grep [F,f]ailed)" "Error!") &amp;
-    fi
-done
-rm /tmp/adbresult /tmp/adbdevices
-</string>
-					<key>CheckedForUserDefaultShell</key>
-					<true/>
-					<key>inputMethod</key>
-					<integer>1</integer>
-					<key>shell</key>
-					<string>/bin/bash</string>
-					<key>source</key>
-					<string></string>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.RunShellScript</string>
-				<key>CFBundleVersion</key>
-				<string>2.0.3</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryUtilities</string>
-				</array>
-				<key>Class Name</key>
-				<string>RunShellScriptAction</string>
-				<key>InputUUID</key>
-				<string>F14006B3-D758-4570-847F-ED13F2C096F6</string>
-				<key>Keywords</key>
-				<array>
-					<string>Shell</string>
-					<string>Скрипт</string>
-					<string>Команда</string>
-					<string>Запустить</string>
-					<string>Unix</string>
-				</array>
-				<key>OutputUUID</key>
-				<string>0BB04662-2EDC-4E69-92D3-3B759C4D22AD</string>
-				<key>UUID</key>
-				<string>6D5A3197-B341-48D1-80DD-C0647EEAD013</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Automator</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<integer>0</integer>
-						<key>name</key>
-						<string>inputMethod</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>source</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-					<key>2</key>
-					<dict>
-						<key>default value</key>
-						<false/>
-						<key>name</key>
-						<string>CheckedForUserDefaultShell</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>2</string>
-					</dict>
-					<key>3</key>
-					<dict>
-						<key>default value</key>
-						<string></string>
-						<key>name</key>
-						<string>COMMAND_STRING</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>3</string>
-					</dict>
-					<key>4</key>
-					<dict>
-						<key>default value</key>
-						<string>/bin/sh</string>
-						<key>name</key>
-						<string>shell</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>4</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>574.000000:1452.000000</string>
+				<string>571.000000:994.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -1423,61 +389,12 @@ rm /tmp/adbresult /tmp/adbdevices
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>00FF498E-D557-41E5-B19F-DC3AC1C9DF69</key>
-		<dict>
-			<key>from</key>
-			<string>FE7CB5AB-B806-4701-B837-563B6AD62F00 - FE7CB5AB-B806-4701-B837-563B6AD62F00</string>
-			<key>to</key>
-			<string>3268D2F1-0082-4518-ACB4-B204FAB92C10 - 3268D2F1-0082-4518-ACB4-B204FAB92C10</string>
-		</dict>
-		<key>347E7DBA-4C69-4B54-A47B-BFFA3052F507</key>
-		<dict>
-			<key>from</key>
-			<string>0DEBF3F4-F952-4CC0-96D0-DA58F7210B1D - 0DEBF3F4-F952-4CC0-96D0-DA58F7210B1D</string>
-			<key>to</key>
-			<string>6D5A3197-B341-48D1-80DD-C0647EEAD013 - 6D5A3197-B341-48D1-80DD-C0647EEAD013</string>
-		</dict>
-		<key>3FDC2684-199A-4F2C-B14D-B81CE7E38EB7</key>
-		<dict>
-			<key>from</key>
-			<string>3268D2F1-0082-4518-ACB4-B204FAB92C10 - 3268D2F1-0082-4518-ACB4-B204FAB92C10</string>
-			<key>to</key>
-			<string>FBEE61AC-3589-4C09-AA9E-BF5744C4943F - FBEE61AC-3589-4C09-AA9E-BF5744C4943F</string>
-		</dict>
-		<key>52068D1B-4D2E-4DD4-A5EA-09F2F314984D</key>
-		<dict>
-			<key>from</key>
-			<string>FBEE61AC-3589-4C09-AA9E-BF5744C4943F - FBEE61AC-3589-4C09-AA9E-BF5744C4943F</string>
-			<key>to</key>
-			<string>0DEBF3F4-F952-4CC0-96D0-DA58F7210B1D - 0DEBF3F4-F952-4CC0-96D0-DA58F7210B1D</string>
-		</dict>
-		<key>7B9D296F-0515-458C-92A4-0D4EE4AFA18E</key>
-		<dict>
-			<key>from</key>
-			<string>650C3415-B813-42AA-82DE-09214F425241 - 650C3415-B813-42AA-82DE-09214F425241</string>
-			<key>to</key>
-			<string>B4E75A9D-77F1-4FB4-8EAC-FFEC1CCB9324 - B4E75A9D-77F1-4FB4-8EAC-FFEC1CCB9324</string>
-		</dict>
-		<key>A5F61900-085B-4947-8C29-2E76344C7872</key>
+		<key>005A012B-35D8-4AD4-9743-D917BB137DEE</key>
 		<dict>
 			<key>from</key>
 			<string>A65777B4-EEF3-4C3F-9434-908DB4BB6FC2 - A65777B4-EEF3-4C3F-9434-908DB4BB6FC2</string>
 			<key>to</key>
-			<string>00B0D269-0100-4977-994B-BBC18388C5CA - 00B0D269-0100-4977-994B-BBC18388C5CA</string>
-		</dict>
-		<key>C70FCEED-8567-4457-B6A9-3EFCF6D483F1</key>
-		<dict>
-			<key>from</key>
-			<string>B4E75A9D-77F1-4FB4-8EAC-FFEC1CCB9324 - B4E75A9D-77F1-4FB4-8EAC-FFEC1CCB9324</string>
-			<key>to</key>
-			<string>FE7CB5AB-B806-4701-B837-563B6AD62F00 - FE7CB5AB-B806-4701-B837-563B6AD62F00</string>
-		</dict>
-		<key>DC5F6C62-2127-4D4D-8747-A7199BF52E36</key>
-		<dict>
-			<key>from</key>
-			<string>00B0D269-0100-4977-994B-BBC18388C5CA - 00B0D269-0100-4977-994B-BBC18388C5CA</string>
-			<key>to</key>
-			<string>650C3415-B813-42AA-82DE-09214F425241 - 650C3415-B813-42AA-82DE-09214F425241</string>
+			<string>FBEE61AC-3589-4C09-AA9E-BF5744C4943F - FBEE61AC-3589-4C09-AA9E-BF5744C4943F</string>
 		</dict>
 	</dict>
 	<key>variables</key>
@@ -1494,7 +411,7 @@ rm /tmp/adbresult /tmp/adbdevices
 	<key>workflowMetaData</key>
 	<dict>
 		<key>folderActionFolderPath</key>
-		<string>~/Desktop/adb dropplet</string>
+		<string>~/Desktop/apk dropplet</string>
 		<key>workflowTypeIdentifier</key>
 		<string>com.apple.Automator.folderAction</string>
 	</dict>
