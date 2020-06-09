@@ -1,7 +1,7 @@
 # APK-install-dropplet-for-Automator
 
 To download you may use git:
-> $ git clone https://github.com/ikozlovsky/APK-install-dropplet-for-Automator.git
+> $ git clone https://github.com/yukkerike/APK-install-dropplet-for-Automator.git
 
  or download a repo as zip.
 
