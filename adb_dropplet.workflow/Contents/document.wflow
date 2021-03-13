@@ -3,181 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>490</string>
+	<string>509</string>
 	<key>AMApplicationVersion</key>
 	<string>2.10</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
 	<array>
-		<dict>
-			<key>action</key>
-			<dict>
-				<key>AMAccepts</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Optional</key>
-					<false/>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMActionVersion</key>
-				<string>2.1.1</string>
-				<key>AMApplication</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>AMParameterProperties</key>
-				<dict>
-					<key>itemType</key>
-					<dict/>
-					<key>predicate</key>
-					<dict/>
-				</dict>
-				<key>AMProvides</key>
-				<dict>
-					<key>Container</key>
-					<string>List</string>
-					<key>Types</key>
-					<array>
-						<string>com.apple.cocoa.path</string>
-					</array>
-				</dict>
-				<key>AMRequiredResources</key>
-				<array/>
-				<key>AMSelectedInputType</key>
-				<string>com.apple.cocoa.path</string>
-				<key>AMSelectedOutputType</key>
-				<string>com.apple.cocoa.path</string>
-				<key>ActionBundlePath</key>
-				<string>/System/Library/Automator/Filter Finder Items 2.action</string>
-				<key>ActionName</key>
-				<string>Фильтровать объекты Finder</string>
-				<key>ActionParameters</key>
-				<dict>
-					<key>itemType</key>
-					<string>com.apple.cocoa.path</string>
-					<key>predicate</key>
-					<data>
-					YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25Z
-					JGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGG
-					oF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290
-					gAGvEB4LDBMZISssLjU5Pj9CRkpPUFNbX2No
-					bXF0dSh4fH5VJG51bGzTDQ4PEBESXxAXTlND
-					b21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1
-					YnByZWRpY2F0ZXNWJGNsYXNzEAGAAoAd0hQP
-					FRhaTlMub2JqZWN0c6IWF4ADgBSAHNQPGhsc
-					HR4fIF8QEU5TUmlnaHRFeHByZXNzaW9uXxAQ
-					TlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGlj
-					YXRlT3BlcmF0b3KAE4AOgASAEdUiIyQlDyYn
-					KCkqWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFt
-					ZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1
-					bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5
-					OtIkDxAtgAfSLzAxMlokY2xhc3NuYW1lWCRj
-					bGFzc2VzXxAQTlNTZWxmRXhwcmVzc2lvbqMx
-					MzRcTlNFeHByZXNzaW9uWE5TT2JqZWN00hQP
-					NjihN4AJgAzTDyQ6Ozw9WU5TS2V5UGF0aIAL
-					EAqACl1maWxlRXh0ZW5zaW9u0i8wQEFfEBxO
-					U0tleVBhdGhTcGVjaWZpZXJFeHByZXNzaW9u
-					o0AzNNIvMENEXk5TTXV0YWJsZUFycmF5o0NF
-					NFdOU0FycmF50i8wR0hfEBNOU0tleVBhdGhF
-					eHByZXNzaW9upEdJMzRfEBROU0Z1bmN0aW9u
-					RXhwcmVzc2lvbtNLJA9MTU5fEA9OU0NvbnN0
-					YW50VmFsdWWADxAAgBBTYXBr0i8wUVJfEBlO
-					U0NvbnN0YW50VmFsdWVFeHByZXNzaW9uo1Ez
-					NNUPVFVWV1hNWShaWk5TTW9kaWZpZXJYTlNO
-					ZWdhdGVZTlNPcHRpb25zXk5TT3BlcmF0b3JU
-					eXBlgBIIEATSLzBcXV8QG05TRXF1YWxpdHlQ
-					cmVkaWNhdGVPcGVyYXRvcqNcXjRfEBNOU1By
-					ZWRpY2F0ZU9wZXJhdG9y0i8wYGFfEBVOU0Nv
-					bXBhcmlzb25QcmVkaWNhdGWjYGI0W05TUHJl
-					ZGljYXRl1A8aGxwdZWZngBOAGYAVgBvVIiMk
-					JQ8mJyhrKoAGgAWAFoAN0hQPbjihb4AXgAzT
-					DyQ6OzxzgAuAGFRraW5k00skD3ZNToAagBDV
-					D1RVVldYTXpNe4ASCRAF0i8wRX2iRTTSLzB/
-					gF8QE05TQ29tcG91bmRQcmVkaWNhdGWjf2I0
-					AAgAEQAaACQAKQAyADcASQBMAFEAUwB0AHoA
-					gQCbAK0AtAC2ALgAugC/AMoAzQDPANEA0wDc
-					APABAwEZARsBHQEfASEBLAE2AUUBWAFkAWYB
-					aAFqAWwBbgF7AYABggGHAZIBmwGuAbIBvwHI
-					Ac0BzwHRAdMB2gHkAeYB6AHqAfgB/QIcAiAC
-					JQI0AjgCQAJFAlsCYAJ3An4CkAKSApQClgKa
-					Ap8CuwK/AsoC1QLeAugC9wL5AvoC/AMBAx8D
-					IwM5Az4DVgNaA2YDbwNxA3MDdQN3A4IDhAOG
-					A4gDigOPA5EDkwOVA5wDngOgA6UDrAOuA7AD
-					uwO9A74DwAPFA8gDzQPjAAAAAAAAAgEAAAAA
-					AAAAgQAAAAAAAAAAAAAAAAAAA+c=
-					</data>
-				</dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Automator.FilterFinderItems2</string>
-				<key>CFBundleVersion</key>
-				<string>2.1.1</string>
-				<key>CanShowSelectedItemsWhenRun</key>
-				<false/>
-				<key>CanShowWhenRun</key>
-				<true/>
-				<key>Category</key>
-				<array>
-					<string>AMCategoryFilesAndFolders</string>
-				</array>
-				<key>Class Name</key>
-				<string>Filter_Finder_Items_2</string>
-				<key>InputUUID</key>
-				<string>3E50F099-B67F-4310-A606-C971CD4AA9A8</string>
-				<key>Keywords</key>
-				<array/>
-				<key>OutputUUID</key>
-				<string>DC33E8DF-63BC-4888-AC11-EB9AA9EE851B</string>
-				<key>UUID</key>
-				<string>A65777B4-EEF3-4C3F-9434-908DB4BB6FC2</string>
-				<key>UnlocalizedApplications</key>
-				<array>
-					<string>Finder</string>
-				</array>
-				<key>arguments</key>
-				<dict>
-					<key>0</key>
-					<dict>
-						<key>default value</key>
-						<string>com.apple.cocoa.path</string>
-						<key>name</key>
-						<string>itemType</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>0</string>
-					</dict>
-					<key>1</key>
-					<dict>
-						<key>default value</key>
-						<data>
-						</data>
-						<key>name</key>
-						<string>predicate</string>
-						<key>required</key>
-						<string>0</string>
-						<key>type</key>
-						<string>0</string>
-						<key>uuid</key>
-						<string>1</string>
-					</dict>
-				</dict>
-				<key>isViewVisible</key>
-				<true/>
-				<key>location</key>
-				<string>571.000000:275.000000</string>
-				<key>nibPath</key>
-				<string>/System/Library/Automator/Filter Finder Items 2.action/Contents/Resources/Base.lproj/main.nib</string>
-			</dict>
-			<key>isViewVisible</key>
-			<true/>
-		</dict>
 		<dict>
 			<key>action</key>
 			<dict>
@@ -233,7 +65,14 @@ if ! [ -d ./installed ]; then
 mkdir installed
 fi
 
-if [ $# -eq 0 ]
+files=()
+find . -maxdepth 1 -type f -name "*.apk" -print0 &gt;tmpfile
+while IFS=  read -r -d $'\0'; do
+    files+=("$REPLY")
+done &lt;tmpfile
+rm -f tmpfile
+
+if [ -z "$files" ];
 then
   osascript -e 'display notification "There are no apk files in a folder." with title "Error!"'
   exit 1
@@ -247,6 +86,10 @@ devices=$(echo $adbdevices|awk -v RS='' -v OFS='","' 'NF { $1 = $1; print "\"" $
 devices="$devices,\"Connect a new device...\""  
 answer=$(osascript -e 'tell application "System Events" to return choose from list {'$devices'} with prompt "Select install target:" default items "'$(echo $adbdevices|head -1)'"')
 
+if [ $answer = "false" ]; then
+    exit 1
+fi
+
 if [ $answer = "Connect a new device..." ]
 then
 ip=$(osascript -e 'set T to text returned of (display dialog "Enter a device IP" default answer "192.168.1.100:5555")')
@@ -254,7 +97,7 @@ ip=$(osascript -e 'set T to text returned of (display dialog "Enter a device IP"
 answer=$ip
 fi
 
-for f in "$@"
+for f in "${files[@]}"
 do
 	adbresult=$(/usr/local/bin/adb -s $answer install -r -g "$f" 2&gt;&amp;1)
     if [ $(echo $adbresult|grep Success) ]
@@ -377,31 +220,23 @@ done</string>
 					</dict>
 				</dict>
 				<key>isViewVisible</key>
-				<true/>
+				<integer>1</integer>
 				<key>location</key>
-				<string>571.000000:994.000000</string>
+				<string>528.000000:252.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
-			<true/>
+			<integer>1</integer>
 		</dict>
 	</array>
 	<key>connectors</key>
-	<dict>
-		<key>005A012B-35D8-4AD4-9743-D917BB137DEE</key>
-		<dict>
-			<key>from</key>
-			<string>A65777B4-EEF3-4C3F-9434-908DB4BB6FC2 - A65777B4-EEF3-4C3F-9434-908DB4BB6FC2</string>
-			<key>to</key>
-			<string>FBEE61AC-3589-4C09-AA9E-BF5744C4943F - FBEE61AC-3589-4C09-AA9E-BF5744C4943F</string>
-		</dict>
-	</dict>
+	<dict/>
 	<key>variables</key>
 	<array>
 		<dict>
 			<key>UUID</key>
-			<string>FB0A3699-A787-4129-906D-C5A17AE10D06</string>
+			<string>887D4A55-B61A-4ED3-92E9-D905564B534E</string>
 			<key>identifier</key>
 			<string>com.apple.Automator.Variable.Storage</string>
 			<key>name</key>
@@ -411,7 +246,7 @@ done</string>
 	<key>workflowMetaData</key>
 	<dict>
 		<key>folderActionFolderPath</key>
-		<string>~/Desktop/apk dropplet</string>
+		<string>~/Desktop/adb dropplet</string>
 		<key>workflowTypeIdentifier</key>
 		<string>com.apple.Automator.folderAction</string>
 	</dict>
